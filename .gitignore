@@ -1,2 +1,17 @@
-*/models/
-*/cifar10_data/
+# Homework 1
+Homework\ 1/models/
+Homework\ 1/cifar10_data/
+
+# Homework 2
+Homework\ 2/q4/mnist_data/
+Homework\ 2/q5/cfenv/
+Homework\ 2/q5/data/
+Homework\ 2/q5/build_*/
+Homework\ 2/q5/constraintflow/
+
+# general
+.ipynb_checkpoints/
+*.egg-info/
+__pycache__/
+*.pyc
+.DS_Store
