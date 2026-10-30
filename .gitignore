@@ -9,6 +9,10 @@ Homework\ 2/q5/data/
 Homework\ 2/q5/build_*/
 Homework\ 2/q5/constraintflow/
 
+# Homework 3
+Homework\ 3/q1/*.pt
+Homework\ 3/q3/*.pt
+
 # general
 .ipynb_checkpoints/
 *.egg-info/
